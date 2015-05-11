@@ -40,3 +40,20 @@
 	<td></td>
 </tr>
 </table>
+
+## Vim
+
+<table border="1" cellpadding="10">
+<tr>
+	<th>名称</th>
+	<th>版本</th>
+	<th>安装包名称</th>
+	<th>描述</th>
+</tr>
+<tr>
+	<td>Vim</td>
+	<td>7.4</td>
+	<td>gvim74.exe</td>
+	<td>for modern Windows</td>
+</tr>
+</table>
